@@ -5,7 +5,9 @@
   box-sizing: border-box;
 }
 
-
+header .heading {
+  font-size: 32px;
+}
 
 
 .main-visual {
