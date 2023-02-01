@@ -22,6 +22,12 @@ header .heading {
   margin: 0 auto;
 }
 
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  margin: 0 auto;
+}
+
 .main-visual {
   width: 100%;
   height: 300px;
