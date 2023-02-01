@@ -10,3 +10,21 @@ header {
   margin: 0 auto;
   text-align: center;
 }
+
+nav {
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.nav-list {
+  text-align: center;
+  padding: 15px 0;
+  margin: 0 auto;
+}
+
+.nav-list-item {
+  list-style: none;
+  display: inline-block;
+  padding: 0 20px;
+  margin: 0 auto;
+}
