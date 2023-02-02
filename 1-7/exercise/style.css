@@ -6,6 +6,10 @@
   color: #6c6b6b;/*文字色指定*/
 }
 
+.main-visual-text {
+  padding: 20px 0 0 20px;
+}
+
 main {
   width: 840px;
   margin: 50px auto;
