@@ -18,3 +18,9 @@ main {
   background-size: cover;
   background-position: bottom;
 }
+
+.course-item {
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #6c6b6b;
+}
