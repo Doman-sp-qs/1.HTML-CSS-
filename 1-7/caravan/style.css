@@ -85,6 +85,15 @@ main {
   justify-content: flex-start;
 }
 
+.blog-image {
+  height: 180px;
+}
+
+.blog-date {
+  font-size: 12px;
+  display: inline-block;
+}
+
 .category {
   desplay: inline-block;
   padding: 5px 8px;
