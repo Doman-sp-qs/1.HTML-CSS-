@@ -23,3 +23,15 @@ main {
   margin-top: 50px;
 }
 
+.color-box {
+  width: 30%;
+  height: 200px;
+  margin-bottom: 40px;
+  background-color: gold;
+}
+
+.color-box:nth-child(4n-3) {
+  background-color: #ff8914;
+}
+
+
