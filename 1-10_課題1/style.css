@@ -228,3 +228,7 @@ footer {
   color: #fff;
 }
 
+/* スマートフォンサイズ（425px）以下の際に適用される設定 */
+@media screen and (max-width:425px) {
+  
+}
