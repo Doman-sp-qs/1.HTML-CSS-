@@ -30,17 +30,26 @@ header {
   margin-right: 0;
 }
 
-.step-image {
+.step1-image {
   height: 150px;
   background-size: cover;
   background-position: bottom;
-}
-
-.step-image:nth-child(1) {
   background-image: url(img/flow01.png);
 }
 
+.step2-image {
+  height: 150px;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url(img/flow02.png);
+}
 
+.step3-image {
+  height: 150px;
+  background-size: cover;
+  background-position: bottom;
+  background-image: url(img/flow03.png);
+}
 
 .step-number {
   color: #fff;
