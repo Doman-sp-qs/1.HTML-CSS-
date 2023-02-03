@@ -11,3 +11,10 @@ main {
   margin: 50px auto;
 }
 
+.list {
+  padding: 20px 0 20px 20px;
+}
+
+.list:nth-child(odd) {
+  background-color: #e9e9e9;
+}
