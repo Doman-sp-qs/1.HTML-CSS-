@@ -230,5 +230,32 @@ footer {
 
 /* スマートフォンサイズ（425px）以下の際に適用される設定 */
 @media screen and (max-width:425px) {
+  .social {
+    display: none;
+  }
+  
+  .nav-list-item {
+    display: block;
+    margin: 5px 0;
+  }
+  
+  .main-visual-content {
+    width: 100%;
+  }
+  
+  
+  
+  main {
+    width: 100%;
+    display: block;
+  }
+  
+  .blog {
+    width: 100%;
+  }
+  
+  .sidebar {
+    width: 100%;
+  }
   
 }
