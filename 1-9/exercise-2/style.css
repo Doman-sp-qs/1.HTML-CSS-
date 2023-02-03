@@ -26,6 +26,10 @@ header {
   position: relative;
 }
 
+.step-item:nth-child(3) {
+  margin-right: 0;
+}
+
 .step-image {
   height: 150px;
   background-size: cover;
@@ -35,6 +39,8 @@ header {
 .step-image:nth-child(1) {
   background-image: url(img/flow01.png);
 }
+
+
 
 .step-number {
   color: #fff;
