@@ -21,6 +21,8 @@ main {
 
 .color-contents {
   margin-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .color-box {
