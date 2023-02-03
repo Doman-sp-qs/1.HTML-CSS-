@@ -254,6 +254,28 @@ footer {
     width: 100%;
   }
   
+  .blog-item {
+    padding-bottom: 0;
+  }
+  
+  .blog-image {
+    width: 175px;
+    height: 165px;
+    margin-left: 10px;
+  }
+  
+  .blog-text h3 {
+    font-size: 18px;
+  }
+  
+  .blog-date {
+    margin-top: 15px;
+  }
+  
+  .category {
+    display: none;
+  }
+  
   .pagination {
     padding-bottom : 50px;
   }
