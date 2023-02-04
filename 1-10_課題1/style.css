@@ -263,7 +263,7 @@ footer {
   }
   
   .blog-image {
-    width: 175px;
+    width:45%;
     height: 165px;
     margin-left: 10px;
   }
@@ -289,16 +289,17 @@ footer {
   }
   
   .sidebar-contents {
-    margin: 0 10px;
+    padding-right: 3%;
+    padding-left: 3%;
   }
   
   .instagram-box {
-    width: 170px;
-    height: 170px;
+    width: 48%;
+    padding-top: 48%;
   }
   
-  .instagram .sidebar-contents {
-    justify-content: center;
+  .instagram-box:nth-child(odd) {
+    margin-right: 4%;
   }
   
 }
