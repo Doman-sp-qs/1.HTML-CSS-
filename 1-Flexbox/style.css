@@ -5,3 +5,14 @@
   box-sizing: border-box;
 }
 
+.flex {
+  display: flex;
+  background-color: #00c7ce;
+}
+
+.flex > div {
+  width: 35%;
+  height: 300px;
+  margin: 10px;
+  background-color: #fff;
+}
