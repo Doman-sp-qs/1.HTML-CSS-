@@ -53,5 +53,21 @@ main {
 }
 
 footer {
+  background-color: cornflowerblue;
+  width: 100%;
+}
+
+.footer-contents {
   display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+.footer-box {
+  background-color: lightblue;
+  flex-basis: 45%;
+  max-width: 600px;
+  height: 40px;
+  margin: 10px;
 }
